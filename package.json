@@ -1,0 +1,7 @@
+{
+  "name": "a-01",
+  "version": "1.0",
+  "dependencies": {
+    "csvtojson": "^2.0.8"
+  }
+}
